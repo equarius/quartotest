@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Hello World :)"
+  },
+  {
+    "objectID": "studies.html",
+    "href": "studies.html",
+    "title": "Studies",
+    "section": "",
+    "text": "Hello World :) ilyes.alex@ttk.hu has published an article in PNAS(pénáes)."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Hello World :)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About us",
+    "section": "",
+    "text": "Hello World :)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Hello World :)"
+  }
+]
